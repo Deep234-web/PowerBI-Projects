@@ -30,6 +30,8 @@ Benefits
 This project offers:
 
 •	Centralized Information: Provides a centralized view for monitoring hospital activities.
+
+![](https://github.com/Deep234-web/PowerBI-Projects/blob/master/Healthcare%20report/Hospital%20Summary.png)
 •	Data-Driven Decision Making: Assists management teams in making informed, data-driven decisions.
 
 The Healthcare Power BI Dashboard project is aimed at aiding Hospital Management Teams in efficiently managing and analyzing critical data for better decision-making processes.
