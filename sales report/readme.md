@@ -5,6 +5,8 @@
 
 #### The project aims to determine the factors associated with Customer churn along with quantification and categorization of the churn risk associated with any user in the subscriber base and to find out the most popular churn segments.   
 
+![](https://github.com/Deep234-web/PowerBI-Projects/blob/master/sales%20report/custodetails.png)
+
 
 ## Demo-Preview
 
@@ -30,7 +32,7 @@ Any Business Intelligence project begins with the understanding of the client de
   <em>Business Request Document</em>
 </p>
 
-
+![](https://github.com/Deep234-web/PowerBI-Projects/blob/master/sales%20report/proddetails.png)
 
 ## Requirement Gathering and Documentation
 
