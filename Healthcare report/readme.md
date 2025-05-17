@@ -33,3 +33,5 @@ This project offers:
 •	Data-Driven Decision Making: Assists management teams in making informed, data-driven decisions.
 
 The Healthcare Power BI Dashboard project is aimed at aiding Hospital Management Teams in efficiently managing and analyzing critical data for better decision-making processes.
+
+![Dashboard Screenshot](Hospital Summary.png)
