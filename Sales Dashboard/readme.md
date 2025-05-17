@@ -5,6 +5,9 @@
 
 #### The project aims to determine the factors associated with Customer churn along with quantification and categorization of the churn risk associated with any user in the subscriber base and to find out the most popular churn segments.         
 
+![](https://github.com/Deep234-web/PowerBI-Projects/blob/master/Sales%20Dashboard/custodetails.png)
+
+
 ## Background
 
 ### What is Sales analysis?
@@ -28,6 +31,7 @@ Based on the request that was made from the client, the following user stories w
 
 I have created a Business Requirement documentation for our business case as shown below. 
 
+![](https://github.com/Deep234-web/PowerBI-Projects/blob/master/Sales%20Dashboard/proddetails.png)
 
 ## Data Cleansing and Transformation
 
